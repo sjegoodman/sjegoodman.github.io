@@ -1,2 +1,2 @@
-# sjegoodman.github.io
+# Samantha Goodman
 This is a test
